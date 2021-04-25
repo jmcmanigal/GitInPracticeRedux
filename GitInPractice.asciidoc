@@ -1,3 +1,4 @@
+Opening Joke, work on it.
 GitInPracticeRedux
 GitInPracticeRedux/.git
 GitInPracticeRedux/.git/config
